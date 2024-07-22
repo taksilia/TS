@@ -1,0 +1,12 @@
+﻿<Window x:Class="TSLU.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TSLU"
+        mc:Ignorable="d"
+        Title="TSLU"  Height="100" Width="100" Visibility="Visible" WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None" Foreground="#00000000" Cursor="AppStarting" Icon="Icon3.ico">
+    <Window.Background>
+        <ImageBrush ImageSource="Icon3.ico"/>
+    </Window.Background>
+</Window>
