@@ -1,4 +1,4 @@
-TS Launcher Updater (download files)
+TS Launcher (download files)
 - TS User Launcher (exe)
 - sver (txt)
 
